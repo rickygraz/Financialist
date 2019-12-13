@@ -30,3 +30,5 @@
 * Libra ([paper](https://developers.libra.org/docs/assets/papers/the-libra-blockchain.pdf))
 * Move Programming Language ([paper](https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf))
 
+## Further Readings
+* Reddit Personal Finance ([site](https://www.reddit.com/r/personalfinance/wiki/index)) - Personal Finance
