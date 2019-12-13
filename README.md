@@ -9,6 +9,12 @@ This guide is built to help those of you reading to help in many scenarios (here
 5. You are in financial trouble and need help getting out. 
 There are many more reasons you could be reading this but it a very generic guide that will continue to grow over time. 
  
+## Introduction: 
+Before we get started lets discuss a few topics and philosophies that I beileve anyone getting into this should understand and contemplate practicing. 
+- Money is not everything, it will make you temporarily happy but you can not take it with you when you die so you should dedicate just as much time to this as you would anything else you are passinoate about and having investing/making money as a passion will eventually leave you down a wormhole and you could potentially end up losing many friends/family/loved ones due to what an obsession this can create. 
+- Money does give you many things and the most important of these is time. 
+
+ 
 ## Saving:
 
  
@@ -21,7 +27,7 @@ There are many more reasons you could be reading this but it a very generic guid
 ## Insurance:
 
  
-## Where should I be?:
+## Where should I be?
 
 
 ## Questions and Answers
