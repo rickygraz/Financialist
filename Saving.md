@@ -15,4 +15,4 @@ There are many ways to save money but I would like to start with where you shoul
 - Bucketizing
 - Taking money away from yourself
 - Becoming more frugal overall
-https://www.nerdwallet.com/article/finance/how-to-save-money
+- website that is useful: https://www.nerdwallet.com/article/finance/how-to-save-money
