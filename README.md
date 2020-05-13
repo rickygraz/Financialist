@@ -14,7 +14,7 @@ There are many more reasons you could be reading this but it a very generic guid
 
  
 ## Saving: An Intro on How, When, and Why
-* ([Saving Intro](https://github.com/rickygraz/Financialist/blob/master/Saving.md))
+[Saving Intro](https://github.com/rickygraz/Financialist/blob/master/Saving.md)
  
 ## Investing:
 
