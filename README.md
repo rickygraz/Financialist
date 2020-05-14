@@ -1,5 +1,4 @@
-# Financialist
-# An introductory guide to Finance
+# Financialist: An introductory guide to Finance
 
 This guide is built to help those of you reading to help in many scenarios (here are a few of the top). 
 1. You are looking to get into Personal Finance and setting your goals straight. 
@@ -11,7 +10,8 @@ There are many more reasons you could be reading this but it a very generic guid
  
 * Introduction ([site](https://github.com/rickygraz/Financialist/blob/master/Introduction.md)) - Intro
 
-
+## First Steps/High Level
+[First Steps](https://github.com/rickygraz/Financialist/blob/master/firstSteps)
  
 ## Saving: An Intro on How, When, and Why
 [Saving Intro](https://github.com/rickygraz/Financialist/blob/master/Saving.md)
