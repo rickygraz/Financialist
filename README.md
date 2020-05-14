@@ -11,7 +11,7 @@ There are many more reasons you could be reading this but it a very generic guid
 * Introduction ([site](https://github.com/rickygraz/Financialist/blob/master/Introduction.md)) - Intro
 
 ## First Steps/High Level
-[First Steps](https://github.com/rickygraz/Financialist/blob/master/firstSteps)
+[First Steps](https://github.com/rickygraz/Financialist/blob/master/firstSteps.md)
  
 ## Saving: An Intro on How, When, and Why
 [Saving Intro](https://github.com/rickygraz/Financialist/blob/master/Saving.md)
