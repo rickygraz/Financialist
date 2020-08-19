@@ -9,6 +9,8 @@ This guide is built to help those of you reading to help in many scenarios (here
 There are many more reasons you could be reading this but it a very generic guide that will continue to grow over time. 
  
 * Introduction ([site](https://github.com/rickygraz/Financialist/blob/master/Introduction.md)) - Intro
+## Intro to Money
+[Intro to Money]
 
 ## First Steps/High Level
 [First Steps](https://github.com/rickygraz/Financialist/blob/master/firstSteps.md)
