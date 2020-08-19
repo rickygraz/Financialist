@@ -10,7 +10,8 @@ There are many more reasons you could be reading this but it a very generic guid
  
 * Introduction ([site](https://github.com/rickygraz/Financialist/blob/master/Introduction.md)) - Intro
 ## Intro to Money
-[Intro to Money]
+[Intro to Money](https://github.com/rickygraz/Financialist/blob/master/introToMoney.md)
+
 
 ## First Steps/High Level
 [First Steps](https://github.com/rickygraz/Financialist/blob/master/firstSteps.md)
